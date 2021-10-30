@@ -1,10 +1,10 @@
----
+---you can on play store
 title: Enabling Codespaces for your organization
-shortTitle: Enabling Codespaces
+shortTitle: Cash Withrawal Enabling Codespaces
 intro: 'You can control which users in your organization can use {% data variables.product.prodname_codespaces %}.'
-product: '{% data reusables.gated-features.codespaces %}'
+product: New user,users,contributor's  etc'{% data reusables.gated-features.codespaces %}'
 permissions: 'To manage user permissions for {% data variables.product.prodname_codespaces %} for an organization, you must be an organization owner.'
-redirect_from:
+redirect_from:Cash Withdrawal
   - /codespaces/managing-codespaces-for-your-organization/managing-user-permissions-for-your-organization
 versions:
   fpt: '*'
